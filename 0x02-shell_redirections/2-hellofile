@@ -1,6 +1,2 @@
 #!/bin/bash
 cat /etc/passwd
-<<<<<<< HEAD
-=======
-
->>>>>>> ec6bb3be00165cd35ed280002c3caba43ae8cad2
